@@ -1,0 +1,13 @@
+body {
+    background-color: navy;
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    color: #eee;
+    background-color: darkmagenta;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
